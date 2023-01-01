@@ -1,5 +1,5 @@
-PWGenerator
-A simple Python script for generating random passwords.
+# PWGenerator
+## A simple Python script for generating random passwords.
 
 Installation
 To install PWGenerator, clone the repository and install the required dependencies using pip:

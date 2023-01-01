@@ -15,7 +15,7 @@ Bachelor's Degree in Cybersecurity, XYZ University (20XX-20XX)
 Contact
 Feel free to contact me for more information or to discuss potential job opportunities.
 
-Email: [YOUR EMAIL ADDRESS]
+##### Email: brian.kesselly@gmail.com
 LinkedIn: [YOUR LinkedIn PROFILE URL]
 Thank you for considering me for your team!
 

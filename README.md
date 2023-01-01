@@ -1,7 +1,7 @@
-# ** Portfolio **
+# Portfolio 
 ## Welcome to my portfolio! My name is Brian Kesselly and I am a recent graduate in cybersecurity engineering from Flatiron School. I am excited to showcase my skills and projects to potential recruiters.
 
-Skills
+##### Skills
 Proficiency in Python, C++, and Java
 Experience with networking protocols and tools (e.g. TCP/IP, Wireshark)
 Knowledge of cybersecurity best practices and frameworks (e.g. NIST, ISO 27001)

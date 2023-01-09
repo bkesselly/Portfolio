@@ -5,7 +5,7 @@ Installation
 To install PWGenerator, clone the repository and install the required dependencies using pip:
 
 Copy code
-git clone https://github.com/USERNAME/PWGenerator.git
+git clone https://github.com/bkesselly/Portfolio/GUI/PWGenerator.git
 cd PWGenerator
 pip install -r requirements.txt
 Usage

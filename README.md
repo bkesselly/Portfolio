@@ -1,5 +1,5 @@
 # Portfolio 
-## Welcome to my portfolio! My name is Brian Kesselly and I am a recent graduate in cybersecurity engineering from Flatiron School. I am excited to showcase my skills and projects to potential recruiters.
+## Welcome to my portfolio! My name is Brian Kesselly and I am a recent graduate from the cybersecurity engineering program from the Flatiron School. I am excited to showcase my skills and projects to potential employers.
 
 # Skills
 ###### Proficiency in Python, Javascript, Solidity
@@ -11,6 +11,7 @@ Strong analytical and problem-solving skills
 Password Generator: A simple Python script for generating random passwords of various lengths.
 Port Scanner: A Python script using the nmap library to scan a target IP address for open ports.
 Encryption/Decryption Tool: A Java program for encrypting and decrypting files using the AES algorithm.
+Soc+ Honeynet in Azure: A honeynet in Azure that ingest log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents.
 ## Education
 ### Certificate in Cybersecurity Engineering, Flatiron School (2022)
 ### Bachelor's Degree in Criminal Justice, University of Cincinnati (2021)
@@ -22,5 +23,3 @@ Encryption/Decryption Tool: A Java program for encrypting and decrypting files u
 ##### LinkedIn: www.linkedin.com/in/brian-kesselly
 Thank you for considering me for your team!
 
-License
-This portfolio is licensed under the MIT License - see the LICENSE file for details.

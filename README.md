@@ -16,6 +16,14 @@ Soc+ Honeynet in Azure: A honeynet in Azure that ingest log sources from various
 ### Certificate in Cybersecurity Engineering, Flatiron School (2022)
 ### Bachelor's Degree in Criminal Justice, University of Cincinnati (2021)
 
+## Certifications
+Cybersecurity Analyst (LeveldCareers)
+Blue Team Level 1 (BTL1), Security Blue Team	
+ICCA - INE Certified Cloud Associate	
+eLearnSecurity Junior Penetration Tester
+Google IT Support
+
+
 #### Contact
 #### Feel free to contact me for more information or to discuss potential job opportunities.
 

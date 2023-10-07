@@ -11,7 +11,7 @@
 <b>Strong analytical and problem-solving skills. <b/> <br>
 <br>
 ## Projects
-[Password Generator](https://github.com/bkesselly/Portfolio/tree/main/Password%20Generator): A simple Python script for generating random passwords of various lengths. <br>
+[Password Generator](https://github.com/bkesselly/Portfolio/tree/main/Password%20Generator): A simple Python script (CLI & GUI) for generating random passwords of various lengths. <br>
 <br>
 Port Scanner: A Python script using the nmap library to scan a target IP address for open ports. <br>
 <br>

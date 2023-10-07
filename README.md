@@ -17,7 +17,7 @@ Port Scanner: A Python script using the nmap library to scan a target IP address
 <br>
 Encryption/Decryption Tool: A Java program for encrypting and decrypting files using the AES algorithm. <br>
 <br>
-Soc+ Honeynet in Azure: A honeynet in Azure that ingest log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. <br>
+[Soc+ Honeynet in Azure](https://github.com/bkesselly/Portfolio/tree/main/SOC%20%2B%20Honeynet%20in%20Azure): A honeynet in Azure that ingest log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents.  <br>
 <br>
 Flatiron Hacktember 2023: Part of a team that built a web application that helped children with disabilities learn different languages and was awarded "Most Polished" (Look and feel is virtually market-ready) after the event.
 <br>

@@ -33,8 +33,8 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Attack Maps Before Hardening / Security Controls
 ![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/2BHAvm3.jpg)<br>
-![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+![Linux Syslog Auth Failures](https://i.imgur.com/qSsdybB.png)<br>
+![Windows RDP/SMB Auth Failures](https://i.imgur.com/ZHDeAUI.jpg)<br>
 
 ## Metrics Before Hardening / Security Controls
 
@@ -48,7 +48,7 @@ Stop Time   2023-09-08 10:20:05
 | Syslog                   | 1178
 | SecurityAlert            | 3
 | SecurityIncident         | 81
-| AzureNetworkAnalytics_CL | 25
+| AzureNetworkAnalytics_CL | 734
 
 ## Attack Maps Before Hardening / Security Controls
 
@@ -56,17 +56,17 @@ Stop Time   2023-09-08 10:20:05
 
 ## Metrics After Hardening / Security Controls
 
-The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
+The following table shows the metrics we measured in our environment for another 24 hours, but after I have applied security controls:
 Start Time 2023-09-08 10:20:05
 Stop Time	2023-09-09 10:20:05
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 8778
-| Syslog                   | 25
+| SecurityEvent            | 550
+| Syslog                   | 84
 | SecurityAlert            | 0
-| SecurityIncident         | 0
-| AzureNetworkAnalytics_CL | 0
+| SecurityIncident         | 14
+| AzureNetworkAnalytics_CL | 25
 
 ## Conclusion
 

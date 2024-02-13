@@ -26,6 +26,9 @@ Flatiron Hacktember 2023: Part of a team that built a web application that helpe
 ### Bachelor's Degree in Criminal Justice, University of Cincinnati (2021)
 
 ## Certifications
+#### CompTIA A+
+#### LPI Linux Essentials
+#### ITIL v4 Foundation
 #### Blue Team Level 1 (BTL1), Security Blue Team	
 #### ICCA - INE Certified Cloud Associate	
 #### eLearnSecurity Junior Penetration Tester
